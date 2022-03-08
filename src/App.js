@@ -1,7 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Web3 from 'web3';
+
+
+
 
 function App() {
+  //console.log(getBalance());
   return (
     <div className="App">
       <header className="App-header">
